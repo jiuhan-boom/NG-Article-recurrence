@@ -1,7 +1,5 @@
 # NG-Article-recurrence for class 25.11.15
 
-![image-20251115153653343](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251115153653343.png)
-
 复现文献：Genetic basis of flavor complexity in sweet corn
 
 Li, K., Yu, Y., Yan, S. *et al.* Genetic basis of flavor complexity in sweet corn. *Nat Genet* **57**, 2842–2851 (2025). https://doi.org/10.1038/s41588-025-02401-0
@@ -69,4 +67,5 @@ Li, K., Yu, Y., Yan, S. *et al.* Genetic basis of flavor complexity in sweet cor
   ### 遗传力计算
 
   - 广义遗传力：![image-20251115160248775](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20251115160248775.png)
+
   - 狭义遗传力：[jianyangqt/gcta: GCTA software](https://github.com/jianyangqt/gcta)
