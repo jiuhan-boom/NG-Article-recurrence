@@ -1,0 +1,2 @@
+experiment ftp://ftp.cngb.org/pub/CNSA/data5/CNP0003295/CNS0579400/CNX0482591/CNR0574459/Nanopore_cell1_cleandata.fq.tar.gz
+experiment ftp://ftp.cngb.org/pub/CNSA/data5/CNP0003295/CNS0579401/CNX0482592/CNR0574460/Nanopore_cell2_cleandata.fq.tar.gz
